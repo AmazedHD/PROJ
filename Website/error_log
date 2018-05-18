@@ -1,0 +1,12 @@
+[20-Apr-2018 04:15:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\Users\olive\Desktop\Ma\bewijzenmap\periode1.3\PROJ\HOST MA WALL\Website\index.php:79
+Stack trace:
+#0 {main}
+  thrown in C:\Users\olive\Desktop\Ma\bewijzenmap\periode1.3\PROJ\HOST MA WALL\Website\index.php on line 79
+[20-Apr-2018 04:15:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\Users\olive\Desktop\Ma\bewijzenmap\periode1.3\PROJ\HOST MA WALL\Website\index.php:79
+Stack trace:
+#0 {main}
+  thrown in C:\Users\olive\Desktop\Ma\bewijzenmap\periode1.3\PROJ\HOST MA WALL\Website\index.php on line 79
+[20-Apr-2018 04:22:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\Users\olive\Desktop\Ma\bewijzenmap\periode1.3\PROJ\HOST MA WALL\Website\index.php:79
+Stack trace:
+#0 {main}
+  thrown in C:\Users\olive\Desktop\Ma\bewijzenmap\periode1.3\PROJ\HOST MA WALL\Website\index.php on line 79

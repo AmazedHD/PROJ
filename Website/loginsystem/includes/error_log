@@ -1,0 +1,7 @@
+[19-Apr-2018 02:08:22 America/Chicago] PHP Warning:  session_start(): open(/tmp\sess_baba23eb343f7ebd800110d065a5c5b7, O_RDWR) failed: No such file or directory (2) in C:\Users\olive\Desktop\Ma\bewijzenmap\periode1.3\PROJ\retard folder\the wall - kopie\includes\login.inc.php on line 3
+[19-Apr-2018 02:08:22 America/Chicago] PHP Warning:  session_start(): Failed to read session data: files (path: /tmp) in C:\Users\olive\Desktop\Ma\bewijzenmap\periode1.3\PROJ\retard folder\the wall - kopie\includes\login.inc.php on line 3
+[19-Apr-2018 02:08:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in C:\Users\olive\Desktop\Ma\bewijzenmap\periode1.3\PROJ\retard folder\the wall - kopie\includes\dbh.inc.php:8
+Stack trace:
+#0 C:\Users\olive\Desktop\Ma\bewijzenmap\periode1.3\PROJ\retard folder\the wall - kopie\includes\login.inc.php(7): include()
+#1 {main}
+  thrown in C:\Users\olive\Desktop\Ma\bewijzenmap\periode1.3\PROJ\retard folder\the wall - kopie\includes\dbh.inc.php on line 8
